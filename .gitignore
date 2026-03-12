@@ -1,0 +1,23 @@
+# --- Python Specific ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv
+venv/
+ENV/
+
+# --- JetBrains (PyCharm, IntelliJ) ---
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# --- VS Code ---
+.vscode/
+.history/
+*.code-workspace
+
+# --- OS Specific ---
+.DS_Store
+Thumbs.db
